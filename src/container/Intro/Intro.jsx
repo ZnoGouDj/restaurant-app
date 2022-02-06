@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { BsFillPlayFill, BsPauseFill } from 'react-icons/bs';
-import { MdVideoCameraFront } from 'react-icons/md';
+
 import { meal } from '../../constants';
 
 import './Intro.css';
